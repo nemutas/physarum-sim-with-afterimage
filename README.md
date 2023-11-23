@@ -2,6 +2,9 @@
 
 残像付きの粘菌ネットワーク
 
+https://nemutas.github.io/physarum-sim-with-afterimage/
+
+<img src='https://github.com/nemutas/physarum-sim-with-afterimage/assets/46724121/721386ba-34ed-406c-956c-48c1f856e3e0' width=700 />
 
 # Reference
 
