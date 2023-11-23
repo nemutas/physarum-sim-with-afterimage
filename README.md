@@ -1,5 +1,6 @@
 # About
 
+残像付きの粘菌ネットワーク
 
 
 # Reference
