@@ -1,11 +1,6 @@
 # About
 
-`Ant Simulation`（アントコロニー最適化） は、スタート地点からゴールまでの最短経路を求めるアルゴリズムです。<br>
-`Physarum Simulation` （粘菌ネットワーク）は、アントコロニー最適化のアルゴリズムからスタートとゴールを取り払ったアルゴリズムです。（少なくても私が実装したものはそうです）
 
-https://nemutas.github.io/physarum-sim-with-afterimage/
-
-<img src='https://github.com/nemutas/physarum-sim-with-afterimage/assets/46724121/164e920e-0624-477a-9d35-f4494c39f0be' alt='' width='700' />
 
 # Reference
 
